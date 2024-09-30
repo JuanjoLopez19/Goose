@@ -1,9 +1,19 @@
 Metadata-Version: 2.1
-Name: gooseDownloader
-Version: 0.1.0
-Summary: An automated downloader for the Goose Desktop app
+Name: GooseDownloader
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: LICENSE.md
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Intended Audience :: Developers
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: License.md
-Requires-Dist: requests
-Requires-Dist: winshell
+
+UNKNOWN
+
