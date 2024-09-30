@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gooseDownloader
+Version: 0.1.0
+Summary: An automated downloader for the Goose Desktop app
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: License.md
+Requires-Dist: requests
+Requires-Dist: winshell

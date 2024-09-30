@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+dependencies = ["requests", "winshell"]
+name = "gooseDownloader"
+version = "0.1.0"
+description = "An automated downloader for the Goose Desktop app"
+requires-python = ">=3.6"
+license = { file = "License.md" }

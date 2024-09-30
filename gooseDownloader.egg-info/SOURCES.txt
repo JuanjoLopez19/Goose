@@ -1,0 +1,17 @@
+License.md
+pyproject.toml
+setup.py
+GooseDownloader.egg-info/PKG-INFO
+GooseDownloader.egg-info/SOURCES.txt
+GooseDownloader.egg-info/dependency_links.txt
+GooseDownloader.egg-info/requires.txt
+GooseDownloader.egg-info/top_level.txt
+goose/__init__.py
+goose/main.py
+goose/temp.py
+gooseDownloader.egg-info/PKG-INFO
+gooseDownloader.egg-info/SOURCES.txt
+gooseDownloader.egg-info/dependency_links.txt
+gooseDownloader.egg-info/requires.txt
+gooseDownloader.egg-info/top_level.txt
+goose/assets/__init__.py
