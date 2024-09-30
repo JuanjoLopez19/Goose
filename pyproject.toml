@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-dependencies = ["winshell", "pywin32==306"]
+dependencies = ["winshell", "pywin32"]
 name = "gooseDownloader"
 version = "0.1.0"
 description = "An automated downloader for the Goose Desktop app"
