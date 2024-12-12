@@ -1,0 +1,4 @@
+goose_prank_*
+dist
+.venv
+*.pyc

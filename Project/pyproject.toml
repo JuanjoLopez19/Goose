@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goose_prank_downloader"
+version = "0.1.0"
+description = "A short description of your project"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = ["wheel", "winshell", "pywin32"]
+license = { file = "LICENSE" }
+authors = [{ name = "Juanjolopez19" }]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: A License",
+    "Operating System :: OS Independent",
+]
